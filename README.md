@@ -1,4 +1,4 @@
-# Test de compteur nommé PowerCounter
+# PowerCounter
 
 Ce projet est un  système de compteur basé sur la blockchain. Seules les personnes ayant leur adresse sur une whitelist peuvent manipuler le compteur.
 
